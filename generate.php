@@ -15,7 +15,7 @@
 
     ?>
 
-    <title>Blog Topics</title>
+    <title>Blog Topic Suggestions</title>
     <script src="https://www.google.com/jsapi"
             type="text/javascript"></script>
     <script language="Javascript" type="text/javascript">
